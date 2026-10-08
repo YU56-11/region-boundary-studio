@@ -1,0 +1,13 @@
+# 运行时产物（如在本机运行后产生）
+app_cred.dat
+tile_cache/
+boundary_cache/
+output/
+_pid.txt
+_wrap_dbg.txt
+
+# 系统 / 编辑器
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
